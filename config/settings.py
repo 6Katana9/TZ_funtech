@@ -26,6 +26,7 @@ ADDITIONAL_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
     'corsheaders',
+    'drf_yasg',
 ]
 
 OWN_APPS = [
